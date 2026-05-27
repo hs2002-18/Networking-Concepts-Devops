@@ -146,6 +146,7 @@ Planned additions include:
 - Service mesh deep dives
 - Observability stack setup
 - CI/CD networking concepts
+- Other cloud platforms
 
 ---
 
